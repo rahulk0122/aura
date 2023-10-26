@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\aura_enrollment\Helper;
+namespace Aura;
 
 /**
  * Class Secure Text.
